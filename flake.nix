@@ -33,6 +33,7 @@
           pkgs.git
           pkgs.git-lfs
           pkgs.git-sizer
+          pkgs.git-open
 
           # C/C++
 
