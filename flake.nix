@@ -28,7 +28,6 @@
           pkgs.iina
           pkgs.net-news-wire
           pkgs.spotify
-          pkgs.utm
 
           # apple Git is *usually* out of date
           pkgs.git
