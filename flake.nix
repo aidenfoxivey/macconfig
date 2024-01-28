@@ -41,6 +41,7 @@
           pkgs.direnv
           pkgs.pkg-config
           pkgs.openssl
+          pkgs.bat
 
           # Golang
           pkgs.gopls
