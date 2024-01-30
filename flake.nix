@@ -73,7 +73,7 @@
           pkgs.pinentry_mac
 
           # flashcards cause useful amiright?
-          pkgs.anki
+          pkgs.anki-bin
           
           # fonts
           pkgs.jetbrains-mono
