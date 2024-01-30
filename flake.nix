@@ -63,7 +63,7 @@
           # Misc
           pkgs.hyperfine
           pkgs.yt-dlp
-          pkgs.mosh
+          #pkgs.mosh
           pkgs._7zz
           pkgs.binwalk
           pkgs.aerc
@@ -84,7 +84,7 @@
         fontDir.enable = true;
         fonts = with pkgs; [
           iosevka
-          fira-mono
+          fira-code
         ];
       };
       # Auto upgrade nix package and the daemon service.
