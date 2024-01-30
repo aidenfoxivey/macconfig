@@ -72,6 +72,9 @@
           pkgs.gnupg
           pkgs.pinentry_mac
 
+          # flashcards cause useful amiright?
+          pkgs.anki
+          
           # fonts
           pkgs.jetbrains-mono
           pkgs.iosevka
