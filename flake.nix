@@ -24,6 +24,7 @@
           # big apps
           pkgs.vscode
           pkgs.hexfiend
+          pkgs.utm
 
           pkgs.iina
           pkgs.net-news-wire
