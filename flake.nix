@@ -24,8 +24,6 @@
           # big apps
           pkgs.vscode
           pkgs.hexfiend
-          pkgs.utm
-
           pkgs.iina
           pkgs.net-news-wire
           pkgs.spotify
@@ -62,23 +60,22 @@
           pkgs.zig
 
           # Misc
-          pkgs.hyperfine
           pkgs.yt-dlp
-          #pkgs.mosh
           pkgs._7zz
-          pkgs.binwalk
-          pkgs.aerc
 
           # gpg and all that
           pkgs.gnupg
+          pkgs.sequoia-sq
           pkgs.pinentry_mac
 
           # flashcards cause useful amiright?
           pkgs.anki-bin
+
+          pkgs.hut
+          pkgs.gh
           
           # fonts
           pkgs.jetbrains-mono
-          pkgs.iosevka
           pkgs.julia-mono
         ];
 
