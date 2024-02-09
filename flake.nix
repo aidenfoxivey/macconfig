@@ -65,7 +65,6 @@
 
           # gpg and all that
           pkgs.gnupg
-          pkgs.sequoia-sq
           pkgs.pinentry_mac
 
           # flashcards cause useful amiright?
