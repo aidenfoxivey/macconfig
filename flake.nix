@@ -33,6 +33,7 @@
           pkgs.git-lfs
           pkgs.git-sizer
           pkgs.git-open
+          pkgs.delta
 
           # C/C++
 
@@ -108,6 +109,8 @@
         dock.mru-spaces = false;
         finder.AppleShowAllExtensions = true;
         finder.FXPreferredViewStyle = "clmv";
+        NSGlobalDomain.AppleShowAllFiles = true;
+        NSGlobalDomain.AppleShowAllExtensions = true;
         screencapture.location = "~/Downloads";
       };
 
